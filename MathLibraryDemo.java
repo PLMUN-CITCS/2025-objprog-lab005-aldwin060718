@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MathLibraryDemo {
     public static void main(String[] args) {
 
@@ -16,3 +17,6 @@ public class MathLibraryDemo {
 
     }
 }
+=======
+
+>>>>>>> 9bb3051e4ecf88228aa38695077f1ce589f9cbc9
